@@ -18,8 +18,8 @@ public class TravellingSystem {
 	
 	public static void main(String[] args) {
 		TravellingSystem obj=new TravellingSystem();
-		obj.pickup="Biriyani";
-		obj.drop_point="Preparing";
+		obj.pickup="Coforge";
+		obj.drop_point="PG";
 		obj.arriving_time=20;
 		obj.display();
 		obj.raindelay();
